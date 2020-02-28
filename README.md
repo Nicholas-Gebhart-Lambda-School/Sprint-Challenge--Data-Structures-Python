@@ -75,7 +75,7 @@ Six seconds is an eternity so you've been tasked with speeding up the code. Can 
 
 #### Task 3. Reverse a Linked List
 
-Inside of the `reverse` directory, you'll find a basic implementation of a Singly Linked List. _Without_ making it a Doubly Linked List (adding a tail attribute), complete the `reverse_list()` function within `reverse/reverse.py` reverse the contents of the list. 
+Inside of the `reverse` directory, you'll find a basic implementation of a Singly Linked List. _Without_ making it a Doubly Linked List (adding a tail attribute), complete the `reverse_list()` function within `reverse/reverse.py` reverse the contents of the list.
 
 For example,
 ```
@@ -88,7 +88,7 @@ would become...
 
 While credit will be given for a functional solution, only optimal solutions will earn a ***3*** on this task.
 
-#### Stretch 
+#### Stretch
 
 * Say your code from `names.py` is to run on an embedded computer with very limited RAM. Because of this, memory is extremely constrained and you are only allowed to store names in arrays (i.e. Python lists). How would you go about optimizing the code under these conditions? Try it out and compare your solution to the original runtime. (If this solution is less efficient than your original solution, include both and label the strech solution with a comment)
 
